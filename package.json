@@ -3,6 +3,7 @@
     "nodemon": "^3.1.9"
   },
   "scripts": {
-    "start": "nodemon functions.js"
+    "start": "nodemon 1-functions.js",
+    "start": "nodemon 2-if-else.js"
   }
 }
