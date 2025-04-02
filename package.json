@@ -1,9 +1,9 @@
 {
   "dependencies": {
+    "axios": "^1.8.4",
     "nodemon": "^3.1.9"
   },
   "scripts": {
-    "start": "nodemon 1-functions.js",
     "start": "nodemon 2-if-else.js"
   }
 }
