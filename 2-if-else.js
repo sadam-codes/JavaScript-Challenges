@@ -30,3 +30,12 @@ const checkStringEmpty = (str) => {
     return str === "" ? "Empty String" : "Not Empty"
 }
 console.log(checkStringEmpty('3'))
+
+// 
+const number = [1, 2, 3, 4, 5]
+if (number.includes(5)) {
+    console.log("5 is present ")
+}
+else {
+    console.log("5 is Not")
+}
