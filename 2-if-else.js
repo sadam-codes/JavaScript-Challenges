@@ -39,3 +39,7 @@ if (number.includes(5)) {
 else {
     console.log("5 is Not")
 }
+
+const age = 18;
+console.log(age <= 18 ? "Adult" : "Child")
+
