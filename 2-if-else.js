@@ -40,6 +40,6 @@ else {
     console.log("5 is Not")
 }
 
-const age = 18;
-console.log(age <= 18 ? "Adult" : "Child")
+const Myage = 18;
+console.log(Myage <= 18 ? "Adult" : "Child")
 
