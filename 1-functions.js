@@ -37,8 +37,8 @@ const includes = (num, element) => {
 console.log(includes([2, 3, 4], 3))
 
 //  Write a function to generate a random number between two numbers.
-const generateNumbers = (num1, num2) => {
-    return Math.random() * (num2 - num1 + 1) + num1
+const generateNumbers = (number01,  number02) => {
+    return Math.random() * ( number02 - number01 + 1) + number01
 }
 console.log(generateNumbers(1, 2))
 
