@@ -20,7 +20,7 @@ const checkPalondrom = (str) => {
     let reverse = str.split("").reverse().join("")
     return str === reverse
 };
-console.log(checkPalondrom("HeH"))
+console.log(checkPalondrom("Sadam"))
 
 // find sumof Al
 const sumOfAll = (num) => {
@@ -47,4 +47,3 @@ const removeDuplicates = (num)=>{
     return [... new Set(num)]
 }
 console.log(removeDuplicates([3,4,5,3,4,4,6]))
-

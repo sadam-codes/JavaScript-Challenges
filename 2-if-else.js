@@ -27,7 +27,7 @@ console.log(CheckNumberDividale(15))
 
 // Write a function that checks if a string is empty.
 const checkStringEmpty = (str) => {
-    return str === "" ? "Empty String" : "Not Empty"
+    return str === "" ? "Empty String" : "Not Empty String"
 }
 console.log(checkStringEmpty('3'))
 
