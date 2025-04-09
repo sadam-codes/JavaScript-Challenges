@@ -14,7 +14,7 @@ console.log(checkNumber(3))
 const reverseDtring = (str) => {
     return str.split("").reverse().join("")
 }
-console.log(reverseDtring("Ali"))
+console.log(reverseDtring("Sadam"))
 
 const checkPalondrom = (str) => {
     let reverse = str.split("").reverse().join("")

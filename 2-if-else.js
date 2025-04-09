@@ -16,7 +16,7 @@ const largestNumber = (num1, num2, num3) => {
 }
 console.log(largestNumber(3, 10, 4, 5))
 
-// Write a function that checks if a number is divisible by both 3 and 5.
+// Write a function that checks if a number is divisible by both 3 and 5 o not ?
 
 const CheckNumberDividale = (num) => {
     return num % 3 === 0 && num % 5 === 0 ?
